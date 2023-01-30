@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sarthakbajpai5675@gmail.com**
 
-- 📄 Know about my experiences <a href="https://linkedin.com/in/https://www.linkedin.com/in/sarthak-bajpai-30b7a6257/" target="blank">Resume<img align="center" (https://drive.google.com/file/d/1dY3xK6YOoSU6gcLp7N_Kr8vvFoOJ47TG/view?usp=share_link)
+- 📄 Know about my experiences <a href="https://linkedin.com/in/https://www.linkedin.com/in/sarthak-bajpai-30b7a6257/" target="blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
