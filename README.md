@@ -1,3 +1,4 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif))](https://rishavchanda.io)
 <h1 align="center">Hi 💫, I'm Sarthak Bajpai</h1>
 
 <h3 align="center">Aspiring Java Backend developer, a lifelong learner, skilled in Front-end and Back-end development. Knowledge of Java, JavaScript, HTML, and CSS. High adaptability to learn new technologies quickly. Interested in obtaining Knowledge and building world-class websites while focusing on organizational goals.</h3>
