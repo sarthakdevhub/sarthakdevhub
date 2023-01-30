@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1RgEsqa6wWjo9IaNOrbuOe7RJoYXzr8BY" target="blank">Resume</a>
 
-<img align="right" width="50%" margin="50" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47txm6gf8jydovg71267wq276d807eyq1os6g3soxo&rid=giphy.gif&ct=g">
+<img align="right" width="50%" margin="0" top="40" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47txm6gf8jydovg71267wq276d807eyq1os6g3soxo&rid=giphy.gif&ct=g">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
