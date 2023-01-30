@@ -1,5 +1,5 @@
 
-<img align="center" width="100%" src="https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg">
+<img align="center" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg">
 <h1 align="center">Hi 💫, I'm Sarthak Bajpai</h1>
 
 <h3 align="center">Aspiring Java Backend developer, a lifelong learner, skilled in Front-end and Back-end development. Knowledge of Java, JavaScript, HTML, and CSS. High adaptability to learn new technologies quickly. Interested in obtaining Knowledge and building world-class websites while focusing on organizational goals.</h3>
