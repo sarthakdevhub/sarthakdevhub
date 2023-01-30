@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-###My Name is Sarthak Bajpai
+## My Name is Sarthak Bajpai
 
