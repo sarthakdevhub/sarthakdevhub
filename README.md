@@ -31,11 +31,11 @@
 
 <p><img margin-bottom="10px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakdevhub&show_icons=true&locale=en&layout=compact&langs_count=3" alt="sarthakdevhub" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakdevhub&theme=dark&show_icons=true" alt="sarthakdevhub" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakdevhub&theme=light&show_icons=true" alt="sarthakdevhub" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakdevhub&" alt="sarthakdevhub" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakdevhub&show_icons=true&locale=en" alt="sarthakdevhub" /></p>
+
 
 
 
