@@ -33,7 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sarthakdevhub&theme=tokyonight&date_format=%5BY.%5Dn.j" alt="sarthakdevhub" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakdevhub&" alt="sarthakdevhub" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakdevhub&theme=tokyonight" alt="sarthakdevhub" /></p>
 
 
 
