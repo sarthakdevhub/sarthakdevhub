@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java || DSA**
 
-- 👨‍💻 All of my projects are available at [sarthakdevhub.github.io](sarthakdevhub.github.io)
+- 👨‍💻 All of my projects are available at [sarthakdevhub.github.io](https://sarthakdevhub.github.io/)
 
 - 💬 Ask me about **Java || DSA**
 
