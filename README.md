@@ -38,6 +38,6 @@
 
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthakdevhub&repo=github-readme-stats) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakdevhub&langs_count=3) -->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sarthakdevhub)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sarthakdevhub&theme=tokyonight)
 
 
