@@ -44,4 +44,6 @@
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthakdevhub&repo=github-readme-stats) -->
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sarthakdevhub&theme=tokyo-night)
 
+<img align="center" width="100%" src="https://media4.giphy.com/headers/dhunten/0DvIY8fAjBSg.gif">
+
 
