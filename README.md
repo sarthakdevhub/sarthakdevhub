@@ -34,10 +34,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3&theme=tokyonight" alt="sarthakdevhub" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" alt="sarthakdevhub" /></p>&nbsp;  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakdevhub" alt="sarthakdevhub" /></p>&nbsp;  
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakdevhub&" alt="sarthakdevhub" /></p> -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakdevhub&theme=tokyonight)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakdevhub&" alt="sarthakdevhub" /></p>
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakdevhub&theme=tokyonight) -->
 
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthakdevhub&repo=github-readme-stats) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakdevhub&langs_count=3) -->
