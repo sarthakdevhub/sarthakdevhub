@@ -3,6 +3,7 @@
 <h1 align="center">Hi 💫 I'm Sarthak Bajpai</h1>
 
 <h3 align="center">Aspiring Java Backend developer, a lifelong learner, skilled in Front-end and Back-end development. Knowledge of Java, JavaScript, HTML, and CSS. High adaptability to learn new technologies quickly. Interested in obtaining Knowledge and building world-class websites while focusing on organizational goals.</h3>
+&nbsp;
 &nbsp;  
 
 <img align="right" width="400" margin="0" src="https://media3.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif?cid=ecf05e47txm6gf8jydovg71267wq276d807eyq1os6g3soxo&rid=giphy.gif&ct=g">
