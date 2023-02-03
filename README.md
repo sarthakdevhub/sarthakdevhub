@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakdevhub&langs_count=5&theme=tokyonight" alt="sarthakdevhub" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sarthakdevhub&theme=tokyonight&date_format=%5BY.%5Dn.j" alt="sarthakdevhub" /></p>(&nbsp;  )
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sarthakdevhub&theme=tokyonight&date_format=%5BY.%5Dn.j" alt="sarthakdevhub" /></p>&nbsp;  
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakdevhub&" alt="sarthakdevhub" /></p> -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakdevhub&theme=tokyonight)
