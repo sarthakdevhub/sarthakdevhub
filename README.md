@@ -33,17 +33,9 @@
 &nbsp;  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakdevhub&langs_count=5&theme=tokyonight&layout=compact" alt="sarthakdevhub" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakdevhub&theme=tokyonight" alt="sarthakdevhub" /></p>&nbsp;  
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakdevhub&&theme=tokyonight" alt="sarthakdevhub" /></p>
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakdevhub&theme=tokyonight) -->
-
-<!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthakdevhub&repo=github-readme-stats) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakdevhub&langs_count=3) -->
-<!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sarthakdevhub&repo=github-readme-stats) -->
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sarthakdevhub&theme=tokyo-night)
-
 <img align="center" width="100%" src="https://media4.giphy.com/headers/dhunten/0DvIY8fAjBSg.gif">
 
 
