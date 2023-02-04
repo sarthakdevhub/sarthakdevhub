@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **sarthakbajpai5675@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1RgEsqa6wWjo9IaNOrbuOe7RJoYXzr8BY_/view" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1dY3xK6YOoSU6gcLp7N_Kr8vvFoOJ47TG/view?usp=sharing" target="blank">Resume</a>
 
 <!--   https://drive.google.com/drive/folders/1RgEsqa6wWjo9IaNOrbuOe7RJoYXzr8BY -->
 
