@@ -40,8 +40,11 @@
 &nbsp;  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakdevhub&langs_count=5&theme=tokyonight&layout=compact" alt="sarthakdevhub" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakdevhub&theme=tokyonight" alt="sarthakdevhub" /></p>&nbsp;  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakdevhub&theme=tokyonight" alt="sarthakdevhub" /></p>&nbsp; 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakdevhub&theme=dark" alt="sarthakdevhub" /></p>&nbsp; 
+  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakdevhub&&theme=tokyonight" alt="sarthakdevhub" /></p>
+  
 <p><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=sarthakdevhub&theme=tokyo-night" alt="sarthakdevhub" /></p>  
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sarthakdevhub&theme=tokyo-night)] -->
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)   -->
