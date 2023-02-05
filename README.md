@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Java || DSA**
 
-<!-- - 📫 How to reach me sarthakbajpai5675@gmail.com -->
+- 📫 How to reach me sarthakbajpai5675@gmail.com
 <!--   [sarthakbajpai5675@gmail.com](mailto:sarthakbajpai5675@gmail.com) -->
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1dY3xK6YOoSU6gcLp7N_Kr8vvFoOJ47TG/view?usp=sharing" target="blank">Resume</a>
